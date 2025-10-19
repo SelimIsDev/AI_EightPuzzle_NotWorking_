@@ -1,4 +1,4 @@
-
+## 8 PUZZLE SOLVER (Manhattan Distance)
 This project implements an 8-Puzzle solver using the Manhattan Distance heuristic. 
 By clicking the solve button, the application computes the shortest path from the initial configuration to the goal state. 
 It demonstrates heuristic search and informed search strategies, showcasing concepts such as state space exploration, cost evaluation, and optimal path finding.
